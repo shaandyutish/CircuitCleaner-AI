@@ -1,0 +1,8 @@
+{
+  "name": "CircuitCleaner-AI",
+  "version": "1.6",
+  "description": "An advanced AI-powered utility to enhance, clean, and vectorize raw PCB layout images and sketches into professional-grade schematics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
